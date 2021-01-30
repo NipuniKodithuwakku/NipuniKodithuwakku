@@ -5,12 +5,6 @@
 <a target="_blank" href="https://linkedin.com/in/nipuni-kodithuwakku-56328915b">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://facebook.com/nipuni.kodithuwakku.92">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a target="_blank" href="https://www.hackerrank.com/chandulakan123">
-  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerank.svg" />
-</a>
 <a target="_blank" href="chandulakan123@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
